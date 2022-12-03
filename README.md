@@ -8,4 +8,4 @@ Tenemos la posibilidad de crear varios usuarios con distintos permisos. Se a  cr
 Los ususarios pueden acceder a distintos permisos como cambiar los links de redes sociales, modificar las paginas de Aviso legal , Cookies , Política de privacidad.
 Crear post del blog. Y administrar los servicios de la empresa.
 
-#Creado por Miguel La Rocca
+# Creado por Miguel La Rocca
